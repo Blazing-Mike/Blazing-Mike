@@ -34,7 +34,7 @@
 
 - 🤔 I'll be learning the following to complete my front-end stack
 
-        React ❤️| Bootstrap 💙 | Saas 🧡 | jQuery 💚 
+        Front-end framework (not-sure yet)| Bootstrap 💙 | Saas 🧡 | jQuery 💚 
  
 - 🔭 I’m currently working on Improving my Front end skills by building projects and learning JavaScript.
 
