@@ -5,7 +5,7 @@
 
 -->
 
-  • My name is Michael Adebambo, I'm 17 years old Developer
+  • My name is Michael Adebambo, I'm 17 years old.
 
       I started my journey into tech during the pandemic in 2020, around July if could remember..
 
