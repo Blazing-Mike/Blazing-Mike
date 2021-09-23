@@ -17,7 +17,7 @@
 
   -  I choose to be a front-end developer cos of the versatility and precisely the power of Javascript
 
-  -    So I started with some [freecodecamp](www.freecodwcamp.com) courses and random videos online but I had some drawbacks like;
+  -    So I started with some [freecodecamp](www.freecodecamp.com) courses and random videos online but I had some drawbacks like;
 #### Roadmap
 
 #### Discipline
@@ -30,11 +30,11 @@
 
           Freecodecamp 🧠 | YouTube 🛠️ | Docs & Ebooks 📚 | Twitter 💙
           
-- 🌱 I’m currently learning HTML CSS and JavaScript + version control (Git and GitHub)
+- 🌱 I’m currently learning JavaScript + Rust
 
 - 🤔 I'll be learning the following to complete my front-end stack
 
-        Front-end framework (not-sure yet)| Bootstrap 💙 | Saas 🧡 | jQuery 💚 
+        Front-end framework (not-sure yet)| Saas 🧡 | jQuery 💚 
  
 - 🔭 I’m currently working on Improving my Front end skills by building projects and learning JavaScript.
 
@@ -45,7 +45,7 @@
               Web development | tech stacks | Books | my opinions about stuffs.
 
 
- 📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen) | [Email](adebambomichael5@gmail.com)
+ 📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen1) | [Email](adebambomichael5@gmail.com)
 
  🤔 I’m looking for help with  
 
@@ -53,17 +53,12 @@
 
                               • How to implement front-end skills in Blockchain 
 
-                              • How to build a start-up at a young age
+                              • Building community of GenZs WEB3 devs, cryptographers, Bitcoin devs, smart contract devs and anyone interested in blockchain and cryptocurrencies
 
 - 😄 Pronouns: Him | He | 💥
 
-- ⚡ Fun Facts
-
-               • I Know a lot about start-ups that you could ever imagine
-
-               • I've read biography of about 100 Founders of start-ups and unicorns around the world and in Africa. ( That number is increasing everyday).
-
-               • I have trillion-dollar ideas in my head 😤😤
+        
+               
                                
 
 
