@@ -42,16 +42,14 @@
 
 - 💬 Ask me about  
                
-              Web development | tech stacks | Books | my opinions about stuffs.
+             Bitcoin| Cutting edge tehnologies ( software && hardware ) | Books |
 
 
  📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen1) | [Email](adebambomichael5@gmail.com)
 
  🤔 I’m looking for help with  
 
-                              • Making Books about programming and Tech available in Africa > Nigeria.
-
-                              • How to implement front-end skills in Blockchain 
+                              • Making Books about programming, Bitcoin and Tech available in Africa > Nigeria.
 
                               • Building community of GenZs WEB3 devs, cryptographers, Bitcoin devs, smart contract devs and anyone interested in blockchain and cryptocurrencies
 
