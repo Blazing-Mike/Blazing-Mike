@@ -14,7 +14,7 @@
 
 -  👯 I’m looking to collaborate on  Building cool stuffs together.
 
-- 🙌 Looking for help with CSS Animations, transistion and interaction. 
+- 🙌 Looking for help with CSS Animations and interaction. 
 
 
 - 💬 Ask me about  
