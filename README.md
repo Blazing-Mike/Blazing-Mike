@@ -7,7 +7,7 @@
 
   # My name is Michael Adebambo.
   
- ### I am a Frontend developer who loves Bitcoin and cryptography. I build beautiful web interface and I care about user experience, accesibilty and web performance
+ ### I am a Frontend developer who loves Bitcoin. I build beautiful web interface and I care about user experience, accesibilty and web performance
 
            
 - 🔭 I’m currently working on Improving my front end skills by building projects and learning about Bitcoin and cryptoeconomics.
