@@ -21,7 +21,7 @@
              Bitcoin | Cutting edge tehnologies ( software && hardware ) | Books | Music 
 
 
- 📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen1) | [Email](adebambomichael5@gmail.com)
+ 📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen1) | [Email](mailto:adebambomichael5@gmail.com)
 
 
 
