@@ -7,17 +7,17 @@
 
   # My name is Michael Adebambo.
   
- ##### I am a Frontend developer who's interested in economics, bitcoin and software engineering. I build beautiful web interface and I care about user experience, accesibilty and performance of web application.
+  I am a front-end developer interested in economics, and music. I build beautiful web interfaces and care about user experience, and accessibility 
 
            
 
--  👯 I’m looking to collaborate on  Building cool stuffs together.
+-  👯 I’m looking to collaborate on  Building cool stuff together.
 
 
 
 - 💬 Ask me about  
                
-           Music 
+           Music ( Afrobeats ) 
 
 
  📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen1) | [Email](mailto:adebambomichael5@gmail.com)
