@@ -20,7 +20,7 @@
            Music ( Afrobeats ) 
 
 
- 📫 How to reach me:  [Twitter](https://www.twitter.com/Mikeoxygen1) | [Email](mailto:adebambomichael5@gmail.com)
+ 📫 How to reach me:  [Email](mailto:adebambomichael5@gmail.com)
 
 
 
