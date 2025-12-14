@@ -7,7 +7,7 @@
 
   # My name is Michael Adebambo.
   
-  I am a front-end developer interested in economics, and music. I build beautiful web interfaces and care about user experience, and accessibility 
+  I am a front-end developer interested in economics, and music. I build web interfaces.
 
            
 
@@ -15,17 +15,13 @@
 
 
 
-- 💬 Ask me about  
-               
-           Music ( Afrobeats ) 
-
 
  📫 How to reach me:  [Email](mailto:adebambomichael5@gmail.com)
 
 
 
                            
-  
+
                
                                
 
